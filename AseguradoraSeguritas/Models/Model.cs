@@ -38,6 +38,7 @@ namespace AseguradoraSeguritas.Models
 
     public class Plan
     {
+      
         public int Id { get; set; }
         [StringLength(60, MinimumLength = 3)]
         [Required(ErrorMessage = "Nombre De La Descripcion Del Plan Es Requerido")]
