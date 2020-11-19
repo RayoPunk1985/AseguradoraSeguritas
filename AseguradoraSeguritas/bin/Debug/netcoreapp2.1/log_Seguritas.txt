@@ -1,0 +1,8 @@
+2020-11-19 01:30:40,162 [8] WARN AseguradoraSeguritas.Controllers.ClientesController - Se Elimino El Cliente: 1
+2020-11-19 01:31:17,203 [24] INFO AseguradoraSeguritas.Controllers.ClientesController - Se Agrego El Cliente :Raymundo Gilberto Monroy Lopez
+2020-11-19 01:31:31,927 [30] INFO AseguradoraSeguritas.Controllers.ClientesController - Se Modifico El Cliente: 2
+2020-11-19 01:31:43,145 [31] INFO AseguradoraSeguritas.Controllers.ClientesController - Se Modifico El Cliente: 2
+2020-11-19 01:32:08,484 [24] ERROR AseguradoraSeguritas.Controllers.ClientesController - Se Quizo agregar El Cliente :Raymundo Gilberto
+2020-11-19 01:32:10,241 [43] ERROR AseguradoraSeguritas.Controllers.ClientesController - Se Quizo agregar El Cliente :Raymundo Gilberto
+2020-11-19 01:32:10,963 [45] ERROR AseguradoraSeguritas.Controllers.ClientesController - Se Quizo agregar El Cliente :Raymundo Gilberto
+2020-11-19 01:33:31,837 [7] WARN AseguradoraSeguritas.Controllers.ClientesController - Se Elimino El Cliente: 2
